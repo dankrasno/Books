@@ -1,7 +1,7 @@
 # Books
 Books I have read
 List Started April, 2020
-
+Bolded are the ones I'm looking forward to reading
 
 # Currently Reading
 - Think and Grow Rich
@@ -11,15 +11,15 @@ List Started April, 2020
 - 48 Laws of Power
 - Zero To One
 - The Art of Doing Science and Engineering
-- The Wealthy Gardner
+- **The Wealthy Gardner**
 - Psycho Cybernetics
-- Never Split the Difference
-- The One Thing
+- **Never Split the Difference**
+- **The One Thing**
 - How I Raised Myself from failure to success in selling
 - Start with why
 - The Art of Learning
 - Remote: Office Not Required
-- Company of One
+- **Company of One**
 - Build a Career in Data Science
 
 
