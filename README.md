@@ -1,7 +1,7 @@
 # Books
-Books I have read
-List Started April, 2020
-Bolded are the ones I'm looking forward to reading
+Books I have read  
+List Started April, 2020  
+Bolded are the ones I'm looking forward to reading  
 
 # Currently Reading
 - Think and Grow Rich
