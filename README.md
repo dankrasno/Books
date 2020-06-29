@@ -23,7 +23,7 @@ Bolded are the ones I'm looking forward to reading
 - Build a Career in Data Science
 
 
-# On Deck (For Fun)
+# On Deck (Stories)
 - Theft of Swords
 - The Last Wish
 - The Hive
