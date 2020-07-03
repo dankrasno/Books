@@ -4,7 +4,7 @@ List Started April, 2020
 Bolded are the ones I'm looking forward to reading  
 
 # Currently Reading
-- Think and Grow Rich
+- Build a Career in Data Science
 
 # On Deck (Learning)
 - Analysis of Financial Time Series (Tsay)
@@ -20,7 +20,6 @@ Bolded are the ones I'm looking forward to reading
 - The Art of Learning
 - Remote: Office Not Required
 - **Company of One**
-- Build a Career in Data Science
 
 
 # On Deck (Stories)
@@ -31,6 +30,7 @@ Bolded are the ones I'm looking forward to reading
 
 
 # Read / Done
+- Think and Grow Rich
 - Never Eat Alone
 - Rich Dad Poor Dad
 - Three Body Problem (Book 1)
