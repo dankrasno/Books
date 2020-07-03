@@ -4,14 +4,13 @@ List Started April, 2020
 Bolded are the ones I'm looking forward to reading  
 
 # Currently Reading
-- Build a Career in Data Science
+- The Wealthy Gardner
 
 # On Deck (Learning)
 - Analysis of Financial Time Series (Tsay)
 - 48 Laws of Power
 - Zero To One
 - The Art of Doing Science and Engineering
-- **The Wealthy Gardner**
 - Psycho Cybernetics
 - **Never Split the Difference**
 - **The One Thing**
@@ -30,6 +29,7 @@ Bolded are the ones I'm looking forward to reading
 
 
 # Read / Done
+- Build a Career in Data Science (dropped)
 - Think and Grow Rich
 - Never Eat Alone
 - Rich Dad Poor Dad
