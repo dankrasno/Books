@@ -19,6 +19,7 @@ Bolded are the ones I'm looking forward to reading
 - The Art of Learning
 - Remote: Office Not Required
 - **Company of One**
+- Bargaining with the Devil: When to negotiate, when to fight
 
 
 # On Deck (Stories)
