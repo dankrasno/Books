@@ -3,22 +3,23 @@ Books I have read
 List Started April, 2020  
 Bolded are the ones I'm looking forward to reading  
 
-# Currently Reading
-- The Wealthy Gardner
+# Currently Reading 
+- Company of One (0/1)
+- **Never Split the Difference** (1/2)
+- Originals (5/8)
 
 # On Deck (Learning)
+- The King Within
 - Analysis of Financial Time Series (Tsay)
 - 48 Laws of Power
 - Zero To One
 - The Art of Doing Science and Engineering
 - Psycho Cybernetics
-- **Never Split the Difference**
 - **The One Thing**
 - How I Raised Myself from failure to success in selling
 - Start with why
 - The Art of Learning
 - Remote: Office Not Required
-- **Company of One**
 - Bargaining with the Devil: When to negotiate, when to fight
 
 
@@ -30,6 +31,8 @@ Bolded are the ones I'm looking forward to reading
 
 
 # Read / Done
+- The 22 Immutable Laws of Marketing
+- The Wealthy Gardner (dropped)
 - Build a Career in Data Science (dropped)
 - Think and Grow Rich
 - Never Eat Alone
