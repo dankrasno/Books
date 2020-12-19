@@ -9,6 +9,7 @@ Bolded are the ones I'm looking forward to reading
 - Originals (5/8)
 
 # On Deck (Learning)
+- The Personal MBA: Master the Art of Business
 - The King Within
 - Analysis of Financial Time Series (Tsay)
 - 48 Laws of Power
