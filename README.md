@@ -6,7 +6,6 @@ Bolded are the ones I'm looking forward to reading
 # Currently Reading 
 - Company of One (0/1)
 - **Never Split the Difference** (1/2)
-- Originals (5/8)
 
 # On Deck (Learning)
 - On Strategy - HBR
@@ -36,7 +35,8 @@ Bolded are the ones I'm looking forward to reading
 - East of Eden
 
 
-# Read / Done
+# Read / Done (top is more recent)
+- Originals 
 - The 22 Immutable Laws of Marketing
 - The Wealthy Gardner (dropped)
 - Build a Career in Data Science (dropped)
