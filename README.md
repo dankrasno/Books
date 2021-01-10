@@ -9,6 +9,7 @@ Bolded are the ones I'm looking forward to reading
 - Originals (5/8)
 
 # On Deck (Learning)
+- On Strategy - HBR
 - Ego is the Enemy
 - "GRIT" (Angela Duckworth)
 - "So good they can't ignore you"
