@@ -8,6 +8,7 @@ Bolded are the ones I'm looking forward to reading
 - **Never Split the Difference** (1/2)
 
 # On Deck (Learning)
+- Games People Play
 - On Strategy - HBR
 - Ego is the Enemy
 - "GRIT" (Angela Duckworth)
