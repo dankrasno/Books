@@ -9,6 +9,7 @@ Bolded are the ones I'm looking forward to reading
 - Psycho Cybernetics
 
 # On Deck (Learning)
+- The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now 
 - The Bitcoin Standard
 - Tax-Free Whealty
 - Why Nations Fail
