@@ -47,6 +47,7 @@ Bolded are the ones I'm looking forward to reading
 - Build a Career in Data Science (dropped, too basic)
 - Think and Grow Rich
 - Never Eat Alone
+- The Suble Art of Not Giving a Fuck
 - Rich Dad Poor Dad
 - Three Body Problem (Book 1)
 - How to Win Friends and Influence People
