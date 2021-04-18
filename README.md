@@ -7,9 +7,10 @@ Bolded are the ones I'm looking forward to reading
 - Company of One (0/1)
 - **Never Split the Difference** (1/2)
 - Psycho Cybernetics
+- Atomic Habits
 
 # On Deck (Learning)
-- Atomic Habits
+- Games People Play
 - The Untethered Soul
 - The Elephant and the Brain
 - The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now 
