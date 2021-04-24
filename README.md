@@ -9,6 +9,14 @@ Bolded are the ones I'm looking forward to reading
 - Psycho Cybernetics
 
 # On Deck (Learning)
+- The Third Door
+- Gucci Mane autobiography
+- That will never work
+- Hatching Twitter
+- American Kingpin
+- crazy love
+- The Millionaire Next Door
+- Influence The Psychology of Persuasion
 - Games People Play
 - The Untethered Soul
 - The Elephant and the Brain
