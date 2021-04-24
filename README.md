@@ -7,7 +7,6 @@ Bolded are the ones I'm looking forward to reading
 - Company of One (0/1)
 - **Never Split the Difference** (1/2)
 - Psycho Cybernetics
-- Atomic Habits
 
 # On Deck (Learning)
 - Games People Play
@@ -45,6 +44,7 @@ Bolded are the ones I'm looking forward to reading
 
 
 # Read / Done (top is more recent)
+- Atomic Habits
 - King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine  (dropped, not a great book)
 - Originals 
 - The 22 Immutable Laws of Marketing
