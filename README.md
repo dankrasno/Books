@@ -9,7 +9,8 @@ Bolded are the ones I'm looking forward to reading
 - The Untethered Soul
 - The Elephant and the Brain
 
-# On Deck (Learning)
+# On Deck (Learning) 
+### recently added are the top, older additions at the bottom
 - High Conflict why we get trapped and how we get out
 - Land of Desire
 - meditation is not what you think
