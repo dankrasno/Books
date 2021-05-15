@@ -4,9 +4,10 @@ List Started April, 2020
 Bolded are the ones I'm looking forward to reading  
 
 # Currently Reading 
-- Company of One (0/1)
 - **Never Split the Difference** (1/2)
 - Psycho Cybernetics
+- The Untethered Soul
+- The Elephant and the Brain
 
 # On Deck (Learning)
 - High Conflict why we get trapped and how we get out
@@ -29,8 +30,6 @@ Bolded are the ones I'm looking forward to reading
 - The Millionaire Next Door
 - Influence The Psychology of Persuasion
 - Games People Play
-- The Untethered Soul
-- The Elephant and the Brain
 - The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now 
 - The Bitcoin Standard
 - Tax-Free Whealty
@@ -63,6 +62,7 @@ Bolded are the ones I'm looking forward to reading
 
 
 # Read / Done (top is more recent)
+- Company of One (dropped, will revisit)
 - Atomic Habits
 - King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine  (dropped, not a great book)
 - Originals 
