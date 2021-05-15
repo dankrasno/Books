@@ -9,6 +9,17 @@ Bolded are the ones I'm looking forward to reading
 - Psycho Cybernetics
 
 # On Deck (Learning)
+- High Conflict why we get trapped and how we get out
+- Land of Desire
+- meditation is not what you think
+- falling awake how to practice mindfullness in everyday life
+- The sentence is death
+- Cubed the puzzle of all of us
+- Democracy may not exist, but we'll miss it when it's gone
+- The Inflamed Mind A radical new approach to depression
+- A Court of Thorns and Roses
+- Zen Wisdom for the Anxious
+- Why fish dont exist
 - The Third Door
 - Gucci Mane autobiography
 - That will never work
