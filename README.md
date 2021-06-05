@@ -24,8 +24,6 @@ Bolded are the ones I'm looking forward to reading
 - A Court of Thorns and Roses
 - Zen Wisdom for the Anxious
 - Why fish dont exist
-- The Third Door
-- Gucci Mane autobiography
 - That will never work
 - Hatching Twitter
 - American Kingpin
@@ -65,6 +63,7 @@ Bolded are the ones I'm looking forward to reading
 
 
 # Read / Done (top is more recent)
+- The Third Door
 - Company of One (dropped, will revisit)
 - Atomic Habits
 - King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine  (dropped, not a great book)
