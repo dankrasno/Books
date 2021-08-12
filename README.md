@@ -4,9 +4,9 @@ List Started April, 2020
 Bolded are the ones I'm looking forward to reading  
 
 # Currently Reading 
+- The Millionaire Next Door
 - **Never Split the Difference** (1/2)
 - Psycho Cybernetics
-- The Untethered Soul
 - The Elephant and the Brain
 
 # On Deck (Learning) 
@@ -21,14 +21,11 @@ Bolded are the ones I'm looking forward to reading
 - Cubed the puzzle of all of us
 - Democracy may not exist, but we'll miss it when it's gone
 - The Inflamed Mind A radical new approach to depression
-- A Court of Thorns and Roses
-- Zen Wisdom for the Anxious
 - Why fish dont exist
 - That will never work
 - Hatching Twitter
 - American Kingpin
 - crazy love
-- The Millionaire Next Door
 - Influence The Psychology of Persuasion
 - Games People Play
 - The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now 
@@ -56,6 +53,7 @@ Bolded are the ones I'm looking forward to reading
 
 
 # On Deck (Stories)
+- A Court of Thorns and Roses
 - Theft of Swords
 - The Last Wish
 - The Hive
@@ -64,6 +62,8 @@ Bolded are the ones I'm looking forward to reading
 
 # Read / Done (top is more recent)
 - The Alchemist
+- Zen Wisdom for the Anxious
+- The Untethered Soul
 - The Third Door
 - Company of One (dropped, will revisit)
 - Atomic Habits
