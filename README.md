@@ -63,6 +63,7 @@ Bolded are the ones I'm looking forward to reading
 
 
 # Read / Done (top is more recent)
+- The Alchemist
 - The Third Door
 - Company of One (dropped, will revisit)
 - Atomic Habits
