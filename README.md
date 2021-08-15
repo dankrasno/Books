@@ -7,7 +7,6 @@ Bolded are the ones I'm looking forward to reading
 - The Millionaire Next Door
 - **Never Split the Difference** (1/2)
 - Psycho Cybernetics
-- The Elephant and the Brain
 
 # On Deck (Learning) 
 ### recently added are the top, older additions at the bottom
@@ -62,6 +61,7 @@ Bolded are the ones I'm looking forward to reading
 
 
 # Read / Done (top is more recent)
+- The Elephant and the Brain
 - The Alchemist
 - Zen Wisdom for the Anxious
 - The Untethered Soul
